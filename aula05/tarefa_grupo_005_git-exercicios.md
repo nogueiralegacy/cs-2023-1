@@ -92,7 +92,7 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
 33. Após alterar o conteúdo de um arquivo committed em passo anterior, qual o efeito do comando **git checkout -- a.txt**?  
     Desfaz as alterações feitas no arquivo a.txt, restaurando o conteúdo do último commit.
 34. Qual a diferença entre os comandos **git reset HEAD a.txt** e **git checkout -- a.txt**?  
-    O primeiro remove o arquivo do stage, o segundo desfaz as alterações feitas no arquivo, reataurando o conteúdo do último commit.
+    O primeiro remove o arquivo do stage, o segundo desfaz as alterações feitas no arquivo, restaurando o conteúdo do último commit.
 35. Veja como interpretar o resultado de git diff [aqui](https://medium.com/therobinkim/how-to-read-a-git-diff-6c87a9dc47c5). Execute, em um dos seus projetos, o comando **git diff HEAD~1 HEAD** e certifique-se de que entende o resultado apresentado.  
     Entendi
 
