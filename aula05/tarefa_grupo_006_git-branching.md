@@ -20,8 +20,8 @@
    `git branch experimento`  
    `git checkout experimento`  
    (realizar a experimentação)  
-   `git add .`
-   `git commit -m "mensagem"`
+   `git add .`  
+   `git commit -m "mensagem"`  
    `git checkout master`  
    `git merge experimento`
 
