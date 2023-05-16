@@ -28,6 +28,8 @@ Por fim é retratado a respeito da segurança do código. É necessário ter o m
 
 Eu já conhecia a importância da documentação, do reaporveitamento de código, dos testes e da preocupação com a segurança e o comportamento do sistema. Porém, foi novo para mim as curiosidades que ele apresentou sobre as linguagens de 4° geração.
 
+O conteúdo do artigo é bem útil para tomar conhecimento de aspectos imprescindíveis na hora de escrever um código de qualidade e que atenda a uma possível manutenção futura.
+
 
 **INSTRUÇÕES**
 1. Esta descrição deve ser feita em um arquivo no formato (md), denominado "tarefa009.md" e deve ser _commitado_ no seu repositório pessoal utilizado para manutenção do controle de versão dos artefatos da disciplina.
