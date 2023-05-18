@@ -15,7 +15,7 @@ def converteAnoEmDias(ano):
 def converteIdadeEmDias(ano, mes, dia):
     return converteAnoEmDias(ano) + converteMesEmDias(mes) + dia
 
-def organizarEntradas():
+def organizaEntradas():
     print('Digite sua idade em anos, meses e dias: ')
     print('Anos: ')
     ano = lerInt()
@@ -26,7 +26,7 @@ def organizarEntradas():
     return ano, mes, dia
 
 def main():
-    ano, mes, dia = organizarEntradas()
+    ano, mes, dia = organizaEntradas()
     print('Sua idade em dias é: ', converteIdadeEmDias(ano, mes, dia))
         
 main()
