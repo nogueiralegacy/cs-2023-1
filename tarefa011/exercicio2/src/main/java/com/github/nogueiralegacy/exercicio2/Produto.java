@@ -3,9 +3,11 @@ package com.github.nogueiralegacy.exercicio2;
 public class Produto {
     private int nomeloja;
     private float preco;
-
     private String descricao;
 
+    public Produto(String descricao) {
+        this.descricao = descricao;
+    }
 
     public int getNomeloja() {
         return nomeloja;
@@ -24,6 +26,6 @@ public class Produto {
     }
 
     public String getDescricao() {
-        return "Produto de Informática";
+        return "Produto de Informatica";
     }
 }
