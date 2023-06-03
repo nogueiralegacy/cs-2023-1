@@ -1,4 +1,4 @@
-package com.github.nogueiralegacy.exercicio2;
+package com.github.nogueiralegacy.erro;
 
 public class Produto {
     private int nomeloja;

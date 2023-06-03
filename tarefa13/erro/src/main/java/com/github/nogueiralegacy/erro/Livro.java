@@ -1,4 +1,4 @@
-package com.github.nogueiralegacy.exercicio2;
+package com.github.nogueiralegacy.erro;
 
 public class Livro extends Produto {
     private String autor;

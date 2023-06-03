@@ -1,4 +1,4 @@
-package com.github.nogueiralegacy.exercicio2;
+package com.github.nogueiralegacy.erro;
 
 import java.util.ArrayList;
 
